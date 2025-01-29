@@ -1,5 +1,5 @@
-# 
-pkg update \n
+ 
+pkg update
 pkg install python
 pkg install python2
 pkg install git
