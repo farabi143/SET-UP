@@ -1,28 +1,19 @@
-# Automation FB
-**Facebook Automation or Id Create tools**
 
-**Developer**: Mr.SxR  
-**Facebook**: Masudur Rahman Sifat
-# Installation
-- **Set-up**
+**TERMUX ANDROID SETU-UP WORKING TOOLS**
+
+**DEVELOPER**: TANIM AHMED >> FARABI
+**FACEBOOK**: MOHAMMAD ASIF HASAN
+# INSTALLATION
+- **SET-UP TOOL**
 ```Bash
-pkg update -y && pkg upgrade -y
-pkg install git -y
-pkg install python -y
-pkg install android-tools
-pip install requests
-pip install faker
-pip install pycryptodome
-pip install python-dateutil
-```
-- **Tool**
-```Bash
-cd $HOME
-rm -rf AutoM-FB
-git clone --depth=1 https://github.com/Mr-SxR/AutoM-FB.git
-cd AutoM-FB
-git pull
-python AutoM-FB.py
+pkg update
+pkg install python
+pkg install python2
+pkg install git
+rm -rf SET-UP
+git clone https://github.com/farabi143/SET-UP
+cd SET-UP
+python SET-UP.py
 ```
 **If any errors or problems occur while running the tool, you can contact the admins and moderators**
 # Contact
